@@ -1,6 +1,6 @@
 # Xor Gate
 
-Returns 1 when only one of the inputs are 1, otherwise 0.
+Returns 1 when its two inputs have opposing values, otherwise 0.
 
 ```
 Input: a, b
