@@ -2,10 +2,19 @@
 
 Converts from 0 to 1 and from 1 to 0.
 
+## Api
+
 ```
 Input: in
 Output: out
 ```
+
+## Truthtable
+
+| in | out |
+|----|-----|
+| 0  |  1  |
+| 1  |  0  |
 
 ## Solution 
 
