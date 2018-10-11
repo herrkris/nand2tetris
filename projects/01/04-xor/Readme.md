@@ -7,7 +7,7 @@ Input: a, b
 Output: out
 ```
 
-## Truthtable
+## Truth table
 
 | a | b | out |
 |---|---|-----|
@@ -19,7 +19,7 @@ Output: out
 
 ## Solution 
 
-Looking again at the truthtable for our `Nand` gate and(!) looking at the one for our `Or` gate we can see that if we combine the outputs of the two tables with an `And` gate we get the desired output.
+Looking again at the Truth table for our `Nand` gate and(!) looking at the one for our `Or` gate we can see that if we combine the outputs of the two tables with an `And` gate we get the desired output.
 
 ## Implementation
 

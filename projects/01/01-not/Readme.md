@@ -9,7 +9,7 @@ Input: in
 Output: out
 ```
 
-## Truthtable
+## Truth table
 
 | in | out |
 |----|-----|

@@ -7,7 +7,7 @@ Input: a, b
 Output: out
 ```
 
-## Truthtable
+## Truth table
 
 | a | b | out |
 |---|---|-----|
@@ -19,7 +19,7 @@ Output: out
 
 ## Solution 
 
-Looking at the truthtable of the `Nand` gate we can see that if any of the inputs are 0 the output is 1. The logic for our `Or` gate is inverted (or negated). Meaing for any input that is 1 the output is 1. From that we can derive our implementation.
+Looking at the Truth table of the `Nand` gate we can see that if any of the inputs are 0 the output is 1. The logic for our `Or` gate is inverted (or negated). Meaing for any input that is 1 the output is 1. From that we can derive our implementation.
 
 ## Implementation
 
